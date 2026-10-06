@@ -1,0 +1,32 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Asset import and generated caches
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*
+/[Aa]ssets/[Ss]treamingAssets/[Aa]a[Ii]nput[Dd]ata/*
+
+# IDE and generated project files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
